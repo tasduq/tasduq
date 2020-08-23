@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on my MERN Projects and Secret Startup!
 - 🌱 I’m currently learning Artificial intelligence
 - 👯 I’m looking to work in a AI specialized Company like Open Ai
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Establish My secret Startup and Also be a complete AI specialist
+- ⚡ Fun fact: I am funny sometimes 
 
 ### Connect with me:
 
@@ -33,12 +33,12 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
-
 <br />
 <br />
 
 
-[website]: http://www.aidataron.com/
+
+[website]: "http://www.aidataron.com/"
 [twitter]: https://twitter.com/tasduqali
 [youtube]: https://www.youtube.com/channel/UCHib7s9Tz6KF5_HL99rQglw
 [instagram]: https://www.instagram.com/tasduqali/
