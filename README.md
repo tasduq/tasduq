@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=AiDataRon&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.aidataron.com/)
 
-## I'm a MERN Stack Developer and an AI Entheusiast!
+## I'm a MERN Stack Developer and an AI Enthusiast!
 
 - 🔭 I’m currently working on my MERN Projects and Secret Startup!
 - 🌱 I’m currently learning Artificial intelligence
