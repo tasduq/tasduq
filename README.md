@@ -4,10 +4,9 @@
 
 ## I'm a MERN Stack Developer and an AI Enthusiast!
 
-- 🔭 I’m currently working on my MERN Projects and Secret Startup!
-- 🌱 I’m currently learning Artificial intelligence
-- 👯 I’m looking to work in a AI specialized Company like Open Ai
-- 🥅 2020 Goals: Establish My secret Startup and Also be a complete AI specialist
+- 🔭 I’m currently working on my MERN Projects and WEB 3.0 Blockchain Projects
+- 🌱 I’m currently learning Microservices and Augmented Reality
+- 👯 I’m looking to work in a Blockchain based and Metaverse Based Companies
 - ⚡ Fun fact: I am funny sometimes
 
 ### Connect with me:
