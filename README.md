@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=AiDataRon&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.aidataron.com/)
 
-## I'm a MERN Stack Developer and a Blockchain WEB 3.0 Enthusiast!
+## I'm a MERN Stack Developer and a Augmented Reality Enthusiast!
 
 - 🔭 I’m currently working on my MERN Projects and WEB 3.0 Blockchain Projects
-- 🌱 I’m currently learning Microservices and Augmented Reality
-- 👯 I’m looking to work in a Blockchain based and Metaverse Based Companies
+- 👯 I am seeking employment with a company that plays a crucial role in the upcoming Web3 revolution, focusing on the fields of AI, AR, VR, and        Blockchain.
 - ⚡ Fun fact: I am funny sometimes
 
 ### Connect with me:
@@ -31,8 +30,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-[website]: http://www.aidataron.com/
-[twitter]: https://twitter.com/tasduqali
+[website]: https://codeculturepro.medium.com/
 [youtube]: https://www.youtube.com/channel/UCHib7s9Tz6KF5_HL99rQglw
-[instagram]: https://www.instagram.com/tasduqali/
+[instagram]: https://www.youtube.com/@codeculturepro
 [linkedin]: https://www.linkedin.com/in/tasduqali
