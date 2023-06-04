@@ -1,6 +1,6 @@
 ### Hi there, I'm Tasadduq Ali 👋
 
-[![Website](https://img.shields.io/website?label=AiDataRon&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.aidataron.com/)
+[![Website](https://img.shields.io/website?label=Medium&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codeculturepro.medium.com/)
 
 ## I'm a MERN Stack Developer and a Augmented Reality Enthusiast!
 
