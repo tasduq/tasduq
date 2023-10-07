@@ -4,8 +4,8 @@
 
 ## I'm a MERN Stack Developer and a Augmented Reality Enthusiast!
 
-- 🔭 I’m currently working on my MERN Projects and WEB 3.0 Blockchain Projects
-- 👯 I am seeking employment with a company that plays a crucial role in the upcoming Web3 revolution, focusing on the fields of AI, AR, VR, and        Blockchain.
+- 🔭 I’m currently working on my MERN Projects and AR based Web Apps
+- 👯 I am seeking employment with a company that plays a crucial role in the upcoming Web3 revolution, focusing on the fields of AR, VR, and        Blockchain.
 - ⚡ Fun fact: I am funny sometimes
 
 ### Connect with me:
